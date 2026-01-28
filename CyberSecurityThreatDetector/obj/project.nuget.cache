@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCsoqPKRua8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yashi\\OneDrive\\Documents\\Projects\\CyberSecurityThreatDetector\\CyberSecurityThreatDetector\\CyberSecurityThreatDetector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yashi\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\Yashi\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\Yashi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Yashi\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
+    "C:\\Users\\Yashi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
